@@ -93,24 +93,22 @@ void loop()
 
 ### Circuit Diagram:
 
-Off setup:
+### Off setup:
 
 ![output](https://github.com/naramala-niharika/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/blob/main/b1.PNG?raw=tue)
 
-On Setup:
+### On Setup:
 ![output](https://github.com/naramala-niharika/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/blob/main/b2.PNG?raw=tue)
 
 
 ### Output:
-Serial monitor:
+
+### Serial monitor:
 ![output](https://github.com/naramala-niharika/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/blob/main/b3.PNG?raw=tue)
 
 
-Toggle graph:
+### Toggle graph:
 ![output](https://github.com/naramala-niharika/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/blob/main/b4.PNG?raw=tue)
-
-
-
 
 
 ### RESULTS: 
