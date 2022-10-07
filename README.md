@@ -89,12 +89,13 @@ void loop()
     delay(15);
 }
 }
+```
 
 ### Circuit Diagram:
 
 Off setup:
 
-![Output](https://github.com/naramala-niharika/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/blob/main/b1.PNG?raw=tue)
+![output](https://github.com/naramala-niharika/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/blob/main/b1.PNG?raw=tue)
 
 On Setup:
 
