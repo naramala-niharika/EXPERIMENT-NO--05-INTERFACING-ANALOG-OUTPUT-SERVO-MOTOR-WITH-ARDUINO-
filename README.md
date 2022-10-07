@@ -93,7 +93,7 @@ void loop()
 ### Circuit Diagram:
 
 Off setup:
-![Output] ()
+![Output] (https://github.com/naramala-niharika/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/blob/main/b1.PNG?raw=tue)
 
 On Setup:
 
