@@ -93,8 +93,7 @@ void loop()
 ### Circuit Diagram:
 
 Off setup:
-![Output]((https://user-images.githubusercontent.com/94165377/194615489-b265f6fc-bd0d-4a1d-a677-110970dd2d56.PNG?raw=true)
-)
+![Output] ((https://user-images.githubusercontent.com/94165377/194615489-b265f6fc-bd0d-4a1d-a677-110970dd2d56.PNG?raw=true))
 On Setup:
 
 ### Output:
