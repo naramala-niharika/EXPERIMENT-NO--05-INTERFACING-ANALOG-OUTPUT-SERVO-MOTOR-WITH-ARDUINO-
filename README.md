@@ -98,11 +98,17 @@ Off setup:
 ![output](https://github.com/naramala-niharika/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/blob/main/b1.PNG?raw=tue)
 
 On Setup:
+![output](https://github.com/naramala-niharika/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/blob/main/b2.PNG?raw=tue)
+
 
 ### Output:
 Serial monitor:
+![output](https://github.com/naramala-niharika/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/blob/main/b3.PNG?raw=tue)
+
 
 Toggle graph:
+![output](https://github.com/naramala-niharika/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/blob/main/b4.PNG?raw=tue)
+
 
 
 
