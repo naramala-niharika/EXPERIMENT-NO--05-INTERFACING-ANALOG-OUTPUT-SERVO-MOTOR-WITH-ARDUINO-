@@ -65,16 +65,43 @@ CIRCUIT DIAGRAM
 8.	Upload the program and check for the physical working. 
 9.	Ensure safety before powering up the device.
 
-
+```
 ### PROGRAM :
- 
+Name:Naramala Niharika
+reg no:212221240031
 
 
+#include<Servo.h>
+Servo s1;
+void setup()
+{
+  s1.attach(9);
+}
+void loop()
+{
+  for(int i=0;i<=100;i+=1)
+  {s1.write(120);
+  delay(15);
+}
+  for(int i=100; i>=0;i-=1)
+  {
+    s1.write(i);
+    delay(15);
+}
+}
 
+### Circuit Diagram:
 
-
-
-
+Off setup:
+![image](?raw=true)
+On Setup:
+![image](?raw=true)
+### Output:
+Serial monitor:
+![image](?raw=true)
+Toggle graph:
+![image](?raw=true)
+```
 
 
 ### RESULTS: 
